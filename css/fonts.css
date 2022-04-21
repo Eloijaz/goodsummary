@@ -1,18 +1,25 @@
 /* font family:Abel */
 @font-face{
-	font-family: abel;
+	font-family: Abel;
 	scr: url('../fonts/Abel/Abel-Regular.ttf');
 }
 
 /* font family:Josefin */
 @font-face{
-	font-family: Josephin;
-	scr: url('.../fonts/Josefin_Sans/');
+	font-family: Josefin;
+	scr: url('../fonts/Josefin_Sans/JosefinSans-Italic-VariableFont_wght.ttf');
 }
 
 /* font family:Livvic */
 @font-face{
 	font-family: Livvic;
-	scr: url('../fonts/Josefin_Sans/');
+	scr: url('../fonts/Livvic/Livvic-Black.ttf');
 }
+
+/* font family:Teko */
+@font-face{
+	font-family: Teko;
+	scr: url('../fonts/Teko/Teko-Regular.ttf');
+}
+
 
