@@ -1,0 +1,18 @@
+/* font family:Abel */
+@font-face{
+	font-family: abel;
+	scr: url('../fonts/Abel/Abel-Regular.ttf');
+}
+
+/* font family:Josefin */
+@font-face{
+	font-family: Josephin;
+	scr: url('.../fonts/Josefin_Sans/');
+}
+
+/* font family:Livvic */
+@font-face{
+	font-family: Livvic;
+	scr: url('../fonts/Josefin_Sans/');
+}
+
